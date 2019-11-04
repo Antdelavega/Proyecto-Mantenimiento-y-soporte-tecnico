@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\bin\Debug\netcoreapp2.2\ProyectoFinalGrupo.deps.json
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\bin\Debug\netcoreapp2.2\ProyectoFinalGrupo.runtimeconfig.json
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\bin\Debug\netcoreapp2.2\ProyectoFinalGrupo.runtimeconfig.dev.json
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\bin\Debug\netcoreapp2.2\ProyectoFinalGrupo.dll
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\obj\Debug\netcoreapp2.2\ProyectoFinalGrupo.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\obj\Debug\netcoreapp2.2\ProyectoFinalGrupo.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\obj\Debug\netcoreapp2.2\ProyectoFinalGrupo.RazorAssemblyInfo.cache
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\obj\Debug\netcoreapp2.2\ProyectoFinalGrupo.RazorAssemblyInfo.cs
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\obj\Debug\netcoreapp2.2\ProyectoFinalGrupo.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\obj\Debug\netcoreapp2.2\ProyectoFinalGrupo.AssemblyInfo.cs
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\obj\Debug\netcoreapp2.2\ProyectoFinalGrupo.RazorTargetAssemblyInfo.cache
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\bin\Debug\netcoreapp2.2\ProyectoFinalGrupo.pdb
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\obj\Debug\netcoreapp2.2\ProyectoFinalGrupo.dll
+C:\Users\anton\source\repos\ProyectoFinalGrupo\ProyectoFinalGrupo\obj\Debug\netcoreapp2.2\ProyectoFinalGrupo.pdb
